@@ -2,6 +2,7 @@
 title: DongYun Kim
 position: Senior Undergraduate Student
 affiliation: Yonsei University
+affiliation_link: https://www.yonsei.ac.kr/
 email: kdyun01@naver.com
 
 # Search Engine Optimization (SEO)
@@ -14,7 +15,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
+github_link: https://github.com/DongDong810
 linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
 

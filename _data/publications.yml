@@ -1,13 +1,14 @@
 main:
 
   - title: "CCMNet: Leveraging Calibrated Color Correction Matrices for Cross-Camera Color Constancy"
-    authors: Dongyoung Kim, Mahmoud Afifi, Dongyun Kim, Michael S. Brown, Seon Joo Kim
+    page: https://www.dykim.me/projects/ccmnet
+    authors: Dongyoung Kim, Mahmoud Afifi, <strong>Dongyun Kim</strong>, Michael S. Brown, Seon Joo Kim
     conference_short: ArXiv, 2025
     conference: 
     pdf: https://arxiv.org/pdf/2504.07959
     code: 
     bibtex: 
-    image: 
+    image: ./assets/img/teaser_ccmnet.png
     notes: 
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"

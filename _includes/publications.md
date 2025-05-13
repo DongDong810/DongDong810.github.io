@@ -16,8 +16,20 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <!-- title -->
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
+      <!-- author -->
+      <div class="author">
+        {% for author in link.authors %}
+          {% if author.url %}
+            <a href="{{ author.url }}" target="_blank">{{ author.name }}</a>
+          {% else %}
+            {{ author.name }}
+          {% endif %}
+          {% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      </div>
+      <!-- conference -->
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">

@@ -1,4 +1,4 @@
-<h2 id="experience" style="margin: 2px 0px 0px;">Experience</h2>
+<h2 id="experience" style="margin: 2px 0px 100px;">Experience</h2>
 
 <h4 style="margin:0 10px 0; color:CornflowerBlue;">Campus Club</h4>
 

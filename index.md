@@ -17,8 +17,8 @@ especially in image editing techniques using diffusion models, as well as enhanc
 
 {% include_relative _includes/projects.md %}
 
-<!-- {% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %} -->
+<!-- {% include_relative _includes/services.md %} -->
 
 {% include_relative _includes/skills.md %}
